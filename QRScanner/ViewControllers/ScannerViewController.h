@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  ScannerViewController.h
 //  QRScanner
 //
 //  Created by Hovhannes Stepanyan on 7/11/18.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface ScannerViewController : UIViewController
 
 @end
-
